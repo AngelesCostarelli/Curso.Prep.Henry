@@ -1,0 +1,4 @@
+ARRAYS: arreglo. Coleccion de elementos no ordenados que se define con [] y contiene cualquier
+tipo de datos, como por ejemplo, strings, funciones, numeros, booleanos. Son matrices y para construir una
+debemos crear una variable, establecerla en [ ] y agregar el contenido dentro de esos, podemos acceder a 
+esos datos cuando queramos.

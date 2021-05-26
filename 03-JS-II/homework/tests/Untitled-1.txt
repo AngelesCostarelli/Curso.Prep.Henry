@@ -1,0 +1,7 @@
+FOR: es un bucle que se utiliza en JS para ayudarnos a no repetir una y otra vez una respuesta. Por ejemplo
+queremos que se forme una serie de numeros, podemos determinarlo en una sola funcion y ponerle una condicion 
+de parada para que se detenga hasta donde nosotros queramos llegar.
+`&&`, `||`, `!`: son ordenadores logicos nos permiten combinar dos expresiones y AND nos va a arrojan verdadero
+si ambas expresiones son verdaderas, si una es falsa arroja falso; OR nos arroja verdadero si una expresion expresion
+es verdadera, si ambas son falsas arroja falso; NOT devolvera el valor opuesto a lo que pasa, si es true va a arrojar
+false.  

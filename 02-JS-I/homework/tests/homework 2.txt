@@ -1,0 +1,24 @@
+VARIABLES: es una manera de otorgarle un valor a algo, puede ser cualquier cosa, por ejemplo, nombre, color favorito, raza de perro. Esa variable la creamos para usarla mas tarde. Para crearla vamos a necesitar la plabra clave var que ir antes del nombre de la variable, y ademas a esas variables podemos designarles un valor, por ejemplo al nombre le designamos Juan, y para ello necesitamos el signo =. Por lo que quedaria asi: 
+var nombre = "juan";
+Existen otras formas de crear variables, esto es, en ves de usar var, usamos let, const, pero son palabras que se usan en una version mas nueva de JS que aun no se utiliza tanto (ES6)
+
+STRINGS: un string es un tipo de dato,  y un tipo es lo que indica la clase de datos que se va a manejar, en el caso de los strings son todos aquellos textos que van entre comillas. Por ejemplo:
+var comidaFavorita = "pasta";
+
+FUNCIONES: una funcion es como un tipo de procedimiento o una serie de instrucciones que tiene como finalidad realizar una tarea o calcular un valor, 
+Para ejecutar una debemos comenzar con la palabra function luego ponerle un nombre por ejemplo "hola", luego vienen parentesis y luego corchetes
+dentro de los corchetes ira todo el codigo que vamos a ejecutar.
+Ademas las funciones tienen Argumentos, y aqui podemos ingresar variables dentro de una funcion para que la misma al final nos arroje un resultado. 
+Para ello vampos a utilizar el signo console.log pero no vamos a utilizarlo siempre,
+en el caso de que queramos obtener valores provenientes de ecuaciones vamos a necesitar la declaracion de retorno. 
+Y usaremos para ello el signo return para indicarle al operador  qué respuesta es la que quiero que me otorgue dentro de la funcion.
+
+DECLARACIONES if: las declaraciones nos permiten indicarle a la funcion que tipo de resultado queremos que nos arroje.
+En el caso de la declaracion de return, queremos que nos devuelva lo que le especificamos. 
+Tambien tenemos la declaracion "if", que la vamos a usar cuando queremos que la funcion nos indique si algo es verdadero o falso.
+Entomnces, comenzamos con una funcion le designamos una variable, agregamos if cuando queremos indicar cuando va a ser verdadero
+por ejemplo if (edad > 18) = true, y luego con la declaracion de return le indicaremos a la funcion que vamos a querer que nos devuelva.
+Pero para no extendernos mas, las declaracion son esos indicadores dentro de una funcion. 
+
+VALORES BOOLEANOS: provienen del codigo binario y en JS significa que tiene dos funciones 0 o 1 , verdadero o falso,
+true o false. 
